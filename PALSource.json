@@ -27,7 +27,7 @@
           "buildVersion": "1",
           "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
-                    "downloadURL": "https://github.com/petbarik/apps/raw/main/disc-catalog.ipa",
+                    "downloadURL": "https://github.com/petbarik/apps/releases/download/v1.0/disc-catalog.ipa",
                     "localizedDescription": "First Alpha!.",
                     "minOSVersion": "26.0"
                 }

@@ -14,7 +14,6 @@
         {
             "name": "Disc Catalog",
             "bundleIdentifier": "net.petbarik.Disc-Catalog",
-      "marketplaceID": "0123456789",
       "developerName": "Péter Ákos Bartus",
             "subtitle": "Manage your old music disc's in one place.",
             "localizedDescription": "This is an awesome app only available on AltStore.",

@@ -28,7 +28,7 @@
                     "size": 4867175,
                     "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/disc-catalog.ipa",
                     "localizedDescription": "First Alpha!.",
-                    "minOSVersion": "26.0"
+                    "minOSVersion": "18.0"
                 }
             ],
             "appPermissions": {

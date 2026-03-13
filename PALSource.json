@@ -22,12 +22,12 @@
             "screenshots": [],
             "versions": [
                 {
-                    "version": "1.0",
+                    "version": "0.1",
           "buildVersion": "1",
-          "date": "2022-05-01T09:00:00-08:00",
+          "date": "2026-03-13T09:00:00-08:00",
                     "size": 4867175,
-                    "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/disc-catalog.ipa",
-                    "localizedDescription": "First Alpha!.",
+                    "downloadURL": "https://github.com/petbarik/apps/main/Disc%20Catalog/Disc%20Catalog-v0.1.ipa",
+                    "localizedDescription": "Test",
                     "minOSVersion": "18.0"
                 }
             ],

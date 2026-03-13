@@ -1,10 +1,7 @@
 {
     "name": "Petbarik",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "subtitle": "All my apps/projects in one place.",
     "iconURL": "https://raw.githubusercontent.com/petbarik/apps/main/Petbarik-Profile.png",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://example.com",
     "fediUsername": "Petbarik",
     "tintColor": "#4185A9",
     "featuredApps": [

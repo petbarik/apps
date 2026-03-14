@@ -9,7 +9,7 @@
     ],
     "apps": [
         {
-            "name": "Disc Catalog",
+            "name": "Disc-Catalog",
             "bundleIdentifier": "net.petbarik.Disc-Catalog",
       "developerName": "Péter Ákos Bartus",
             "subtitle": "Manage your old music disc's in one place.",

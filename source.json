@@ -26,6 +26,15 @@
           "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/Disc-Catalog/Disc-Catalog-v0.1.ipa",
           "localizedDescription": "Test",
           "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.1.5",
+          "buildVersion": "2",
+          "date": "2026-03-14T08:42:53Z",
+          "size": 190,
+          "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/Disc-Catalog/Disc-Catalog-v0.1.5.ipa",
+          "localizedDescription": "AUTO RELEASE",
+          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {

@@ -19,12 +19,12 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "0.1",
+          "version": "1",
           "buildVersion": "1",
           "date": "2026-03-14T09:50:00Z",
           "size": 4864316,
-          "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/Disc-Catalog/Disc-Catalog-v0.1.ipa",
-          "localizedDescription": "AUTO RELEASE",
+          "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/Disc-Catalog/Disc-Catalog-v1.0.ipa",
+          "localizedDescription": "MANUAL BETA",
           "minOSVersion": "18.0"
         }
       ],

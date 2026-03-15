@@ -31,21 +31,23 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
+      }
+    },
+    {
       "name": "Sched-Rail",
       "bundleIdentifier": "net.petbarik.Scheduler",
       "developerName": "Péter Ákos Bartus",
-      "subtitle": "The ultimate manager app for train drivers.",
+      "subtitle": "An app for train drivers",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
-      "tintColor": "#7A2323",
+      "tintColor": "#5CA399",
       "screenshots": [],
       "versions": [
         {
           "version": "0.1",
           "buildVersion": "1",
           "date": "2026-03-14T09:50:00Z",
-          "size": 4864316,
+          "size": 5130653,
           "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/Scheduler/Scheduler-v0.1.ipa",
           "localizedDescription": "MANUAL PRE TEST",
           "minOSVersion": "18.0"

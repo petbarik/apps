@@ -49,7 +49,16 @@
           "date": "2026-03-14T09:50:00Z",
           "size": 5130653,
           "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/Scheduler/Scheduler-v1.0.ipa",
-          "localizedDescription": "MANUAL PRE TEST",
+          "localizedDescription": "MANUAL PRE-ALPHA",
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "1.0.1",
+          "buildVersion": "2",
+          "date": "2026-03-15T19:20:00Z",
+          "size": 5145817,
+          "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/Scheduler/Scheduler-v1.0.1.ipa",
+          "localizedDescription": "MANUAL PRE-BETA",
           "minOSVersion": "18.0"
         }
       ],

@@ -44,11 +44,11 @@
       "screenshots": [],
       "versions": [
         {
-          "version": "0.1",
+          "version": "1.0",
           "buildVersion": "1",
           "date": "2026-03-14T09:50:00Z",
           "size": 5130653,
-          "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/Scheduler/Scheduler-v0.1.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/Scheduler/Scheduler-v1.0.ipa",
           "localizedDescription": "MANUAL PRE TEST",
           "minOSVersion": "18.0"
         }

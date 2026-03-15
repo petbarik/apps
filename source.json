@@ -5,11 +5,11 @@
   "fediUsername": "Petbarik",
   "tintColor": "#4185A9",
   "featuredApps": [
-    "net.petbarik.Disc-Catalog"
+    "net.petbarik.Scheduler"
   ],
   "apps": [
     {
-      "name": "Disc-Catalog",
+      "name": "Disc Catalog",
       "bundleIdentifier": "net.petbarik.Disc-Catalog",
       "developerName": "Péter Ákos Bartus",
       "subtitle": "Manage your old music disc's in one place.",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "name": "Scheduler",
+      "name": "Sched Rail",
       "bundleIdentifier": "net.petbarik.Scheduler",
       "developerName": "Péter Ákos Bartus",
       "subtitle": "An app for train drivers",

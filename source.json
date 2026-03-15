@@ -34,7 +34,7 @@
       }
     },
     {
-      "name": "Sched-Rail",
+      "name": "Scheduler",
       "bundleIdentifier": "net.petbarik.Scheduler",
       "developerName": "Péter Ákos Bartus",
       "subtitle": "An app for train drivers",

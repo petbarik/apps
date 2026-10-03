@@ -1,7 +1,7 @@
 {
   "name": "Petbarik",
   "subtitle": "Lets do some SwiftUI :)",
-  "iconURL": "https://raw.githubusercontent.com/petbarik/apps/main/Petbarik-Profile.png",
+  "iconURL": "https://raw.githubusercontent.com/petbarik/apps/main/assets/Petbarik-Profile.png",
   "fediUsername": "Petbarik",
   "tintColor": "#4185A9",
   "featuredApps": [
@@ -13,8 +13,8 @@
       "bundleIdentifier": "net.petbarik.Disc-Catalog",
       "developerName": "Péter Ákos Bartus",
       "subtitle": "Manage your old music disc's in one place.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+      "localizedDescription": "This is an awesome app only available on AltStore and Sidestore.",
+      "iconURL": "https://raw.githubusercontent.com/petbarik/apps/main/assets/Petbarik-Profile.png",
       "tintColor": "#5CA399",
       "screenshots": [],
       "versions": [
@@ -23,7 +23,7 @@
           "buildVersion": "1",
           "date": "2026-03-14T09:50:00Z",
           "size": 4864316,
-          "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/Disc-Catalog/Disc-Catalog-v1.0.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/petbarik/apps/main/apps/Disc-Catalog/ios/Disc-Catalog-v1.0.ipa",
           "localizedDescription": "MANUAL BETA",
           "minOSVersion": "18.0"
         }

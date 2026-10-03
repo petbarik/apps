@@ -1,3 +1,3 @@
 # iOS
 AltStore & Sidestore:
-https://raw.githubusercontent.com/petbarik/apps/main/source.json
+https://raw.githubusercontent.com/petbarik/apps/main/sources/ios.json
